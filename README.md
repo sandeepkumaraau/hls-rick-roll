@@ -17,7 +17,7 @@ The goal of this project was to learn and execute a complete video delivery pipe
 * Uploading all generated files to a static website host (GitHub Pages).
 * Using the `hls.js` JavaScript library to create a browser-based player that adaptively streams the video.
 
-## Technologies Used
+## Tools Used
 
 * **[FFmpeg](https://ffmpeg.org/):** For video encoding and HLS packaging.
 * **[hls.js](https://github.com/video-dev/hls.js/):** For client-side HLS playback in the browser.
